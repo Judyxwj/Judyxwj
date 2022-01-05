@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Judyxwj
-- 👀 I’m interested in C language.
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning CS50 https://cs50.harvard.edu/x/2022/
-- 💞️ I’m looking to collaborate on Problem Sets in the course.
+- 💞️ I’m looking to collaborate on Problem Sets in the course
 - 📫 How to reach me : email: matrixsubstrate@163.com
 
 <!---
